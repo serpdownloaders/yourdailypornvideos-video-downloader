@@ -1,0 +1,209 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/yourdailypornvideos-downloader",
+  "serply_link": "https://serp.ly/yourdailypornvideos-downloader",
+  "app_name": "Yourdailypornvideos Video Downloader",
+  "short_description": "Download & Save Yourdailypornvideos Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Yourdailypornvideos Downloader is a focused browser extension designed to help you save video content from YourDailyPornVideos pages. Built around the verified.ws host patterns, this tool targets the exact slug-style video URLs used on the platform, making it straightforward to capture and store videos locally. Whether you need to build a personal archive or access content offline, this extension provides a direct path from the video page to a downloadable MP4 file.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/yourdailypornvideos-downloader-fullscreen-01-8f09e6b9f5.webp",
+    "https://apps.serp.co/media/optimized-products/yourdailypornvideos-downloader-fullscreen-02-966dacb8ab.webp",
+    "https://apps.serp.co/media/optimized-products/yourdailypornvideos-downloader-fullscreen-03-ed1cd363e0.webp",
+    "https://apps.serp.co/media/optimized-products/yourdailypornvideos-downloader-fullscreen-04-a9fe313eeb.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Is YourDailyPornVideos a verified target for this downloader?",
+      "answer": "Yes, the source data confirms that the.ws domain is marked as a verified target, with a concrete slug-style video page supplied as the primary example."
+    },
+    {
+      "question": "What page structure does this extension support?",
+      "answer": "The extension is designed for slug-based video URLs under the yourdailyvideos.ws domain, such as the supplied test page pattern."
+    },
+    {
+      "question": "Can I download videos from other adult sites with this extension?",
+      "answer": "No, this extension is specifically built for YourDailyPornVideos pages and targets the.ws domain and its subdomain patterns."
+    },
+    {
+      "question": "Does the extension work with all video content on the site?",
+      "answer": "The extension targets slug-style video pages, but stream availability and detection depend on the specific page and its media configuration."
+    },
+    {
+      "question": "Is this extension available in browser stores?",
+      "answer": "Installation is handled through GitHub Releases for the supported browsers."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Works with the exact YourDailyPornVideos.ws domain and its subdomain patterns",
+    "Targets the slug-based video page structure used across the site",
+    "Provides a simple popup interface for detecting and downloading media",
+    "Outputs standard MP4 files for broad playback compatibility",
+    "Includes 3 free trial downloads so you can test the workflow before committing",
+    "Targets the exact YourDailyPornVideos.ws domain and its verified host patterns",
+    "Works with slug-based video page URLs like the supplied test example",
+    "Provides a clean popup interface for initiating downloads",
+    "Detects video content during playback on supported pages",
+    "Offers multiple quality options when available",
+    "Outputs standard MP4 files for easy playback and storage",
+    "Includes 3 free trial downloads for testing",
+    "Supports Chrome, Edge, Brave, and Firefox browsers"
+  ],
+  "content": {
+    "why": [
+      "Most video downloaders treat adult sites as interchangeable targets, using generic copy that could apply to any tube platform. Yourdailypornvideos Downloader takes a different approach by being built specifically around the YourDailyPornVideos.ws domain and its slug-based page structure. This means the extension targets the exact host patterns and route style used on the site, rather than applying a one-size-fits-all solution that may not work correctly.",
+      "The extension fills a practical need for users who regularly visit YourDailyPornVideos and want to save videos for offline viewing, personal archiving, or content organization. Instead of relying on third-party downloaders that may break with site updates or require complex configuration, this tool provides a dedicated option that aligns with how YourDailyPornVideos structures its content pages. The result is a more reliable path from the video page to your local storage."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open YourDailyPornVideos and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the extension by following the installation instructions below.",
+      "Navigate to yourdailyvideos.ws and find a video page with a slug-style URL.",
+      "Play the video to allow the extension to detect the media stream.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "Wait for the detection process to complete and display available options.",
+      "Select your preferred quality from the list if multiple options appear.",
+      "Click the download button and let the export process run.",
+      "Save the resulting MP4 file to your preferred location."
+    ],
+    "supported_formats": [
+      "Input: Video content hosted on YourDailyPornVideos.ws pages with slug-based URLs",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Regular visitors to YourDailyPornVideos who want to save videos for offline viewing",
+      "Users who prefer a dedicated downloader over generic browser tools",
+      "People building personal video archives from.ws domain content",
+      "Anyone testing or evaluating downloader coverage for YourDailyPornVideos pages"
+    ],
+    "use_cases": [
+      "Saving a video for offline playback when internet access is unavailable",
+      "Archiving favorite content for long-term personal access",
+      "Organizing videos into local collections for easier browsing",
+      "Testing downloader behavior on slug-based page structures",
+      "Evaluating the extension's performance on the verified.ws target"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any video on the page Make sure you have started video playback before opening the popup. The detection process relies on the media stream being active.",
+      "The download fails or produces a corrupted file Try refreshing the page and starting the process again. If the issue persists, check that you are on a supported YourDailyPornVideos.ws page.",
+      "The popup does not open when I click the icon Verify that the extension is properly installed and enabled in your browser. You may need to restart your browser after installation.",
+      "I cannot find the download option in the popup Some video pages may require the media to be fully loaded before detection works. Let the video play for a few seconds before opening the popup.",
+      "The extension works on some pages but not others The extension targets slug-based video pages on the.ws domain. Pages with different URL structures may not be supported."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported YourDailyPornVideos page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "This extension targets the yourdailyvideos.ws domain and its verified host patterns",
+      "The supplied test page uses a slug-based URL structure for content routing"
+    ],
+    "about": [
+      "YourDailyPornVideos is a video hosting platform that organizes adult content under the.ws domain using slug-based page URLs. This extension helps users save videos from the platform by targeting its specific page structure and host patterns."
+    ]
+  },
+  "serpx_link": "https://serpx.link/yourdailypornvideos-downloader",
+  "github_topics": [
+    "yourdailypornvideos-download",
+    "yourdailypornvideos-downloader",
+    "yourdailypornvideos-video-downloader",
+    "yourdailypornvideos-video-downloader-online",
+    "yourdailypornvideos-video-downloader-mac",
+    "yourdailypornvideos-video-downloader-window",
+    "yourdailypornvideos-video-downloader-free",
+    "yourdailypornvideos-video-downloader-extension",
+    "yourdailypornvideos-video-downloader-app",
+    "yourdailypornvideos-video-downloader-chrome",
+    "yourdailypornvideos-video-downloader-from-url",
+    "how-to-download-yourdailypornvideos-videos",
+    "how-to-download-yourdailypornvideos-videos-mac",
+    "how-to-download-yourdailypornvideos-videos-windows",
+    "how-to-download-yourdailypornvideos-videos-online",
+    "how-to-download-yourdailypornvideos-videos-free",
+    "how-to-download-from-yourdailypornvideos",
+    "how-to-download-videos-from-yourdailypornvideos",
+    "download-yourdailypornvideos-videos",
+    "yourdailypornvideos-video-tutorial",
+    "save-yourdailypornvideos-videos",
+    "yourdailypornvideos-video-content-saver",
+    "how-to-download-yourdailypornvideos-videos-for-free"
+  ],
+  "hashtags": [
+    "#YourdailypornvideosDownload",
+    "#YourdailypornvideosDownloader",
+    "#YourdailypornvideosVideoDownloader",
+    "#YourdailypornvideosVideoDownloaderOnline",
+    "#YourdailypornvideosVideoDownloaderMac",
+    "#YourdailypornvideosVideoDownloaderWindow",
+    "#YourdailypornvideosVideoDownloaderFree",
+    "#YourdailypornvideosVideoDownloaderExtension",
+    "#YourdailypornvideosVideoDownloaderApp",
+    "#YourdailypornvideosVideoDownloaderChrome",
+    "#YourdailypornvideosVideoDownloaderFromURL",
+    "#HowToDownloadYourdailypornvideosVideos",
+    "#HowToDownloadYourdailypornvideosVideosMac",
+    "#HowToDownloadYourdailypornvideosVideosWindows",
+    "#HowToDownloadYourdailypornvideosVideosOnline",
+    "#HowToDownloadYourdailypornvideosVideosFree",
+    "#HowToDownloadFromYourdailypornvideos",
+    "#HowToDownloadVideosFromYourdailypornvideos",
+    "#DownloadYourdailypornvideosVideos",
+    "#YourdailypornvideosVideoTutorial",
+    "#SaveYourdailypornvideosVideos",
+    "#YourdailypornvideosVideoContentSaver",
+    "#HowToDownloadYourdailypornvideosVideosForFree"
+  ],
+  "youtube_tags": [
+    "Yourdailypornvideos Download",
+    "Yourdailypornvideos Downloader",
+    "Yourdailypornvideos Video Downloader",
+    "Yourdailypornvideos Video Downloader Online",
+    "Yourdailypornvideos Video Downloader Mac",
+    "Yourdailypornvideos Video Downloader Window",
+    "Yourdailypornvideos Video Downloader Free",
+    "Yourdailypornvideos Video Downloader Extension",
+    "Yourdailypornvideos Video Downloader App",
+    "Yourdailypornvideos Video Downloader Chrome",
+    "Yourdailypornvideos Video Downloader From URL",
+    "How To Download Yourdailypornvideos Videos",
+    "How To Download Yourdailypornvideos Videos Mac",
+    "How To Download Yourdailypornvideos Videos Windows",
+    "How To Download Yourdailypornvideos Videos Online",
+    "How To Download Yourdailypornvideos Videos Free",
+    "How To Download From Yourdailypornvideos",
+    "How To Download Videos From Yourdailypornvideos",
+    "Download Yourdailypornvideos Videos",
+    "Yourdailypornvideos Video Tutorial",
+    "Save Yourdailypornvideos Videos",
+    "Yourdailypornvideos Video Content Saver",
+    "How To Download Yourdailypornvideos Videos For Free"
+  ]
+}
